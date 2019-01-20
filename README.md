@@ -4,6 +4,7 @@ Recommender systems in python using the MovieLes Dataset.
 The most common types of recommendation systems are content based and collaborative filtering recommender systems.
 
 
+
 ## 1) Content based
 
 Content based systems use meta data such as genre, producer, actor, musician to recommend items say movies or music. Content based systems are based on the idea that if you liked a certain item you are most likely to like something that is similar to it. This content based recommended system uses the matrix factorization with LDA (Latent Dirichlet Allocation).
