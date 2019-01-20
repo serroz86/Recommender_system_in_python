@@ -1,5 +1,6 @@
 # Recommender systems using python
-Recommender systems in python using the MovieLes Dataset.
+
+Recommender systems in python using the [MovieLens 20M Dataset](https://grouplens.org/datasets/movielens/20m/).
 
 The most common types of recommendation systems are content based and collaborative filtering recommender systems.
 
@@ -25,6 +26,5 @@ There are two types of collaborative models Memory-based methods and Model-based
 In this folder, there is a simple item-based collaborative filtering recommender system built with python. In collaborative filtering, the behavior of a group of users is used to make recommendations to other users. This case identifies similar items based on users’ previous ratings.
 
 The Pearson correlation coefficient is used to determine the correlation between the users' ratings of two movies. This number will lie between -1 and 1. 1 indicates a positive linear correlation, -1 indicates a negative correlation and 0 indicates no linear correlation. 
-
 
 
